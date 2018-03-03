@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/rhtCanuck/Home/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[link to rht website](http://randy.thurber.com)
+[link to rht website](http://randythurber.com)
 
 
 ### Markdown
