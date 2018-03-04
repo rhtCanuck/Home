@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <a href="about.html" title="About Me">About Me</a>
 
-<a href="PythonCheatSheets.html" title="Python Cheat Sheets">About Me</a>
+<a href="PythonCheatSheet.html" title="Python Cheat Sheets">Python Cheat Sheet</a>
 
-<a href="PythonSample1.html" title="Python Samples">About Me</a>
+<a href="PythonSample1.html" title="Python Samples">Python Samples</a>
 
 
 
