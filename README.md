@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <a href="PythonCheatSheet.html" title="Python Cheat Sheets">Python Cheat Sheet</a>
 
-<a href="PythonSample1.html" title="Python Samples">Python Samples</a>
+<a href="PythonSamples1.html" title="Python Samples">Python Samples</a>
 
 
 
